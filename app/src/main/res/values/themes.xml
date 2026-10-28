@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MichaelProject2026" parent="Theme.Material3.DayNight">
+    </style>
+
+    <style name="Theme.MichaelProject2026" parent="Base.Theme.MichaelProject2026" />
+
+</resources>

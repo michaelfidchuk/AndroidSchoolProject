@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        app:showAsAction="always"
+        android:title="menu"
+        android:icon="@drawable/options_drawable"
+        android:id="@+id/menu">
+        <menu>
+
+
+    <item
+        app:showAsAction="always"
+        android:title="share"
+        android:icon="@drawable/share_drawable"
+        android:id="@+id/share"
+        />
+
+    <item
+        app:showAsAction="always"
+        android:title="settings"
+        android:icon="@drawable/settings_drawable"
+        android:id="@+id/settings"
+        />
+
+    <item
+        app:showAsAction="always"
+        android:title="exit"
+        android:icon="@drawable/exit_drawable"
+        android:id="@+id/exit"
+        />
+
+    <item
+        app:showAsAction="always"
+        android:title="about me"
+        android:icon="@drawable/aboutme_drawable"
+        android:id="@+id/aboutme"
+        />
+</menu>
+    </item>
+</menu>
